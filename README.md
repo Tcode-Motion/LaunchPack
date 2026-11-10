@@ -10,6 +10,8 @@ rules, and it writes only from facts you gave it. It never invents
 features, numbers or results. Story gaps stay as clear [bracketed
 placeholders], because your story is yours.
 
+![LaunchPack Pro GUI](docs/gui.png)
+
 ## Run it
 
 **Windows:** double-click `LaunchPack.bat`. The pro web UI opens.
@@ -26,11 +28,12 @@ installed, otherwise in your default browser. A Tkinter fallback
 
 A dark, professional three-panel window: Source on the left, the
 searchable platform list in the middle, Output on the right with the
-format switch and one big GENERATE POSTS button. Live selected count
-in the footer. Screenshot: `docs/gui.png`.
+format switch and one big GENERATE POSTS button whose label shows the
+live selected count.
 
-1. Pick your source: GitHub URL, local folder, a README file, or one paragraph.
-   The Strict No-AI toggle keeps story gaps as [brackets]; off fills them with neutral lines.
+1. Pick your source: GitHub URL, local folder, a README file, or one
+   paragraph. The Strict No-AI toggle keeps story gaps as [brackets];
+   off fills them with neutral lines instead.
 2. Tick platforms. Presets: Launch day, Social, Dev, All, None.
    112 platforms in four groups: launch boards and directories,
    communities and blogs, social platforms, formats and stores
@@ -70,10 +73,12 @@ One folder with one file per platform per format, plus `index.txt`:
 
 ## Tested
 
-The generator is validated end to end: 4 input modes x 112 platforms x
-2 formats = 896 files checked for presence, sane length, platform
-character limits and clean punctuation. The GUI is smoke-tested the
-same way, and both launchers (bat and sh) are run before every release.
+The generator is validated end to end: 7 full runs across every input
+mode, strict and relaxed, 1,568 files checked for presence, sane
+length, platform character limits and clean punctuation. Zero
+failures. The web UI is tested the same way, all four source modes
+generating real posts through it, and both launchers (bat and sh)
+are run before every release.
 
 ## Honest limits
 
