@@ -1,0 +1,11 @@
+LaunchPack v2 pack for TechScript
+8 platforms, formats: md, txt
+
+producthunt
+betalist
+uneed
+fazier
+devhunt
+peerlist
+hackernews
+indiehackers

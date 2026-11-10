@@ -1,0 +1,3 @@
+# TechScript
+
+**Tagline:** TechScript is an open-source programming language built with Rust, featuring a native compiler, virtual machine, package manager, and modern tooling. Build CLI, web, GUI, automation, AI, and full-stack applications using clean, re...

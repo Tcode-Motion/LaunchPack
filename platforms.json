@@ -1,0 +1,898 @@
+[
+ {
+  "id": "producthunt",
+  "name": "Product Hunt",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 3
+ },
+ {
+  "id": "betalist",
+  "name": "BetaList",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "uneed",
+  "name": "Uneed",
+  "category": "Launch boards and directories",
+  "limit": 260,
+  "style": "listing",
+  "hashtags": 3
+ },
+ {
+  "id": "fazier",
+  "name": "Fazier",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 3
+ },
+ {
+  "id": "tinylaunch",
+  "name": "TinyLaunch",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "microlaunch",
+  "name": "MicroLaunch",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "devhunt",
+  "name": "DevHunt",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 3
+ },
+ {
+  "id": "launchingnext",
+  "name": "Launching Next",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "betapage",
+  "name": "BetaPage",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "startupbase",
+  "name": "StartupBase",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "killerstartups",
+  "name": "Killer Startups",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "startupranking",
+  "name": "Startup Ranking",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "f6s",
+  "name": "F6S",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "wellfound",
+  "name": "Wellfound",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "crunchbase",
+  "name": "Crunchbase",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 0
+ },
+ {
+  "id": "alternativeto",
+  "name": "AlternativeTo",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "saashub",
+  "name": "SaaSHub",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "g2",
+  "name": "G2",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 0
+ },
+ {
+  "id": "capterra",
+  "name": "Capterra",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 0
+ },
+ {
+  "id": "peerlist",
+  "name": "Peerlist Launchpad",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 3
+ },
+ {
+  "id": "sideprojectors",
+  "name": "SideProjectors",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "openlaunch",
+  "name": "Open Launch",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "startupbuffer",
+  "name": "Startup Buffer",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "betabound",
+  "name": "Beta Bound",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "appsumo",
+  "name": "AppSumo Pitch",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "pitchground",
+  "name": "PitchGround",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "saasworthy",
+  "name": "SaaS Worthy",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 0
+ },
+ {
+  "id": "productradar",
+  "name": "Product Radar",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "launchday",
+  "name": "Launch Day",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "startupinspire",
+  "name": "Startup Inspire",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "tooldirectory",
+  "name": "AI Tools Directory",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "theresanaiforthat",
+  "name": "There's An AI For That",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "futurepedia",
+  "name": "Futurepedia",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "toptools",
+  "name": "TopAI.tools",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "hackernews",
+  "name": "Hacker News (Show HN)",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 0
+ },
+ {
+  "id": "indiehackers",
+  "name": "Indie Hackers",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 0
+ },
+ {
+  "id": "devto",
+  "name": "Dev.to",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 4
+ },
+ {
+  "id": "hashnode",
+  "name": "Hashnode",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 4
+ },
+ {
+  "id": "medium",
+  "name": "Medium",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 3
+ },
+ {
+  "id": "substack",
+  "name": "Substack",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 2
+ },
+ {
+  "id": "hackernoon",
+  "name": "HackerNoon",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 3
+ },
+ {
+  "id": "growthhackers",
+  "name": "Growth Hackers",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 2
+ },
+ {
+  "id": "reddit_sideproject",
+  "name": "Reddit r/SideProject",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 0
+ },
+ {
+  "id": "reddit_startups",
+  "name": "Reddit r/startups",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 0
+ },
+ {
+  "id": "reddit_saas",
+  "name": "Reddit r/SaaS",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 0
+ },
+ {
+  "id": "reddit_entrepreneur",
+  "name": "Reddit r/Entrepreneur",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 0
+ },
+ {
+  "id": "reddit_alphaandbetausers",
+  "name": "Reddit r/alphaandbetausers",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 0
+ },
+ {
+  "id": "reddit_androiddev",
+  "name": "Reddit r/androiddev",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 0
+ },
+ {
+  "id": "reddit_webdev",
+  "name": "Reddit r/webdev",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 0
+ },
+ {
+  "id": "reddit_opensource",
+  "name": "Reddit r/opensource",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 0
+ },
+ {
+  "id": "discord_announcement",
+  "name": "Discord Announcement",
+  "category": "Communities and blogs",
+  "limit": 2000,
+  "style": "social",
+  "hashtags": 0
+ },
+ {
+  "id": "slack_community",
+  "name": "Slack Community Post",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "social",
+  "hashtags": 1
+ },
+ {
+  "id": "lobsters",
+  "name": "Lobsters",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 0
+ },
+ {
+  "id": "dzone",
+  "name": "DZone",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 3
+ },
+ {
+  "id": "codeproject",
+  "name": "CodeProject",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 2
+ },
+ {
+  "id": "sitepoint",
+  "name": "SitePoint",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 2
+ },
+ {
+  "id": "productschool",
+  "name": "Product School Community",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 2
+ },
+ {
+  "id": "mindtheproduct",
+  "name": "Mind the Product",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 2
+ },
+ {
+  "id": "quora",
+  "name": "Quora Answer",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 1
+ },
+ {
+  "id": "stackoverflow_blogs",
+  "name": "Stack Overflow Blog Pitch",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 2
+ },
+ {
+  "id": "x",
+  "name": "X (Twitter)",
+  "category": "Social platforms",
+  "limit": 280,
+  "style": "short",
+  "hashtags": 2
+ },
+ {
+  "id": "linkedin",
+  "name": "LinkedIn",
+  "category": "Social platforms",
+  "limit": 3000,
+  "style": "social",
+  "hashtags": 3
+ },
+ {
+  "id": "facebook_page",
+  "name": "Facebook Page",
+  "category": "Social platforms",
+  "limit": 5000,
+  "style": "social",
+  "hashtags": 3
+ },
+ {
+  "id": "facebook_group",
+  "name": "Facebook Group",
+  "category": "Social platforms",
+  "limit": 5000,
+  "style": "social",
+  "hashtags": 2
+ },
+ {
+  "id": "instagram",
+  "name": "Instagram Caption",
+  "category": "Social platforms",
+  "limit": 2200,
+  "style": "social",
+  "hashtags": 5
+ },
+ {
+  "id": "threads",
+  "name": "Threads",
+  "category": "Social platforms",
+  "limit": 500,
+  "style": "short",
+  "hashtags": 2
+ },
+ {
+  "id": "mastodon",
+  "name": "Mastodon",
+  "category": "Social platforms",
+  "limit": 500,
+  "style": "short",
+  "hashtags": 3
+ },
+ {
+  "id": "bluesky",
+  "name": "Bluesky",
+  "category": "Social platforms",
+  "limit": 300,
+  "style": "short",
+  "hashtags": 2
+ },
+ {
+  "id": "tiktok",
+  "name": "TikTok Caption",
+  "category": "Social platforms",
+  "limit": 2200,
+  "style": "social",
+  "hashtags": 5
+ },
+ {
+  "id": "youtube_community",
+  "name": "YouTube Community Post",
+  "category": "Social platforms",
+  "limit": 1000,
+  "style": "social",
+  "hashtags": 2
+ },
+ {
+  "id": "youtube_description",
+  "name": "YouTube Description",
+  "category": "Social platforms",
+  "limit": 5000,
+  "style": "full",
+  "hashtags": 3
+ },
+ {
+  "id": "pinterest",
+  "name": "Pinterest Pin",
+  "category": "Social platforms",
+  "limit": 500,
+  "style": "short",
+  "hashtags": 3
+ },
+ {
+  "id": "tumblr",
+  "name": "Tumblr",
+  "category": "Social platforms",
+  "limit": 0,
+  "style": "social",
+  "hashtags": 4
+ },
+ {
+  "id": "whatsapp_channel",
+  "name": "WhatsApp Channel",
+  "category": "Social platforms",
+  "limit": 1024,
+  "style": "social",
+  "hashtags": 0
+ },
+ {
+  "id": "telegram_channel",
+  "name": "Telegram Channel",
+  "category": "Social platforms",
+  "limit": 4096,
+  "style": "social",
+  "hashtags": 2
+ },
+ {
+  "id": "snapchat",
+  "name": "Snapchat Spotlight",
+  "category": "Social platforms",
+  "limit": 250,
+  "style": "short",
+  "hashtags": 2
+ },
+ {
+  "id": "linktree_post",
+  "name": "Link in Bio Post",
+  "category": "Social platforms",
+  "limit": 300,
+  "style": "short",
+  "hashtags": 2
+ },
+ {
+  "id": "google_business",
+  "name": "Google Business Post",
+  "category": "Social platforms",
+  "limit": 1500,
+  "style": "social",
+  "hashtags": 1
+ },
+ {
+  "id": "email_newsletter",
+  "name": "Email Newsletter",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 0
+ },
+ {
+  "id": "press_release",
+  "name": "Press Release",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "press",
+  "hashtags": 0
+ },
+ {
+  "id": "playstore",
+  "name": "Google Play Description",
+  "category": "Formats and stores",
+  "limit": 4000,
+  "style": "store",
+  "hashtags": 0
+ },
+ {
+  "id": "appstore",
+  "name": "App Store Description",
+  "category": "Formats and stores",
+  "limit": 4000,
+  "style": "store",
+  "hashtags": 0
+ },
+ {
+  "id": "chromewebstore",
+  "name": "Chrome Web Store Description",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "store",
+  "hashtags": 0
+ },
+ {
+  "id": "wordpress_post",
+  "name": "WordPress Blog Post",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 3
+ },
+ {
+  "id": "ghost_post",
+  "name": "Ghost Post",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 3
+ },
+ {
+  "id": "notion_page",
+  "name": "Notion Public Page",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 2
+ },
+ {
+  "id": "github_readme_announcement",
+  "name": "GitHub Release Notes",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "full",
+  "hashtags": 2
+ },
+ {
+  "id": "changelog",
+  "name": "Changelog Entry",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 0
+ },
+ {
+  "id": "landing_hero",
+  "name": "Landing Page Hero",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 0
+ },
+ {
+  "id": "cold_email",
+  "name": "Cold Outreach Email",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "press",
+  "hashtags": 0
+ },
+ {
+  "id": "dm_pitch",
+  "name": "DM Pitch (short)",
+  "category": "Formats and stores",
+  "limit": 300,
+  "style": "short",
+  "hashtags": 0
+ },
+ {
+  "id": "elevator_pitch",
+  "name": "Elevator Pitch (60 words)",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "short",
+  "hashtags": 0
+ },
+ {
+  "id": "one_liner",
+  "name": "One-Liner Everywhere",
+  "category": "Formats and stores",
+  "limit": 160,
+  "style": "short",
+  "hashtags": 1
+ },
+ {
+  "id": "bio_line",
+  "name": "Profile Bio Line",
+  "category": "Formats and stores",
+  "limit": 160,
+  "style": "short",
+  "hashtags": 0
+ },
+ {
+  "id": "startupstash",
+  "name": "Startup Stash",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "startuplift",
+  "name": "StartupLift",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "getapp",
+  "name": "GetApp",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 0
+ },
+ {
+  "id": "softwareadvice",
+  "name": "Software Advice",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 0
+ },
+ {
+  "id": "trustradius",
+  "name": "TrustRadius",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 0
+ },
+ {
+  "id": "sourceforge",
+  "name": "SourceForge",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "slant",
+  "name": "Slant",
+  "category": "Launch boards and directories",
+  "limit": 0,
+  "style": "listing",
+  "hashtags": 2
+ },
+ {
+  "id": "stackshare",
+  "name": "StackShare",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 2
+ },
+ {
+  "id": "makerlog",
+  "name": "Makerlog",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "social",
+  "hashtags": 2
+ },
+ {
+  "id": "wip",
+  "name": "WIP",
+  "category": "Communities and blogs",
+  "limit": 280,
+  "style": "short",
+  "hashtags": 1
+ },
+ {
+  "id": "designernews",
+  "name": "Designer News",
+  "category": "Communities and blogs",
+  "limit": 0,
+  "style": "community",
+  "hashtags": 1
+ },
+ {
+  "id": "dribbble",
+  "name": "Dribbble Shot",
+  "category": "Social platforms",
+  "limit": 0,
+  "style": "social",
+  "hashtags": 4
+ },
+ {
+  "id": "behance",
+  "name": "Behance Project",
+  "category": "Social platforms",
+  "limit": 0,
+  "style": "social",
+  "hashtags": 4
+ },
+ {
+  "id": "gumroad",
+  "name": "Gumroad Product Page",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "store",
+  "hashtags": 0
+ },
+ {
+  "id": "itchio",
+  "name": "Itch.io Page",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "store",
+  "hashtags": 0
+ },
+ {
+  "id": "steam",
+  "name": "Steam Page Description",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "store",
+  "hashtags": 0
+ },
+ {
+  "id": "kickstarter",
+  "name": "Kickstarter Pitch",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "press",
+  "hashtags": 0
+ },
+ {
+  "id": "patreon",
+  "name": "Patreon Post",
+  "category": "Formats and stores",
+  "limit": 0,
+  "style": "social",
+  "hashtags": 2
+ }
+]

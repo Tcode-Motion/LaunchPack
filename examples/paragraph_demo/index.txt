@@ -1,0 +1,6 @@
+LaunchPack v2 pack for LaunchPack
+3 platforms, formats: md, txt
+
+producthunt
+x
+linkedin
